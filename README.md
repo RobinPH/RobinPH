@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hello, my name is Robin Dimasin 👋
+I am a **Python & Web Developer Freelancer**, and an aspiring **Software Engineer**. I provide different services such as Web Scraping, Fullstack Development, Browser Automation using Selenium/Puppeteer, Python Scripting, Task Automation, and Chrome Extension Development.
 
-<!--
-**RobinPH/RobinPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Robin Dimasin](https://img.shields.io/badge/robindimasin.com-202020?style=for-the-badge&logo=About.me&logoColor=white)](http://robindimasin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=white)](http://robindimasin.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-202020?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/RobinPH)
+[![dev.to](https://img.shields.io/badge/dev.to-202020?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/robinph)
+[![Linktree](https://img.shields.io/badge/linktree-202020?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/robindimasin)
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,php,java,cpp,mysql,html,css,tailwindcss&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,svelte,laravel,flask,dotnet,nodejs&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img 
+  width="27%" 
+  align="left" 
+  src="https://github-readme-stats.vercel.app/api?username=robinph&show_icons=true&hide_rank=true&hide_title=true" 
+  alt="robinph"
+/> 
+
+<img 
+  width="25%" 
+  align="left" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=robinph&show_icons=true&locale=en&layout=compact"
+  alt="robinph"
+/> 
