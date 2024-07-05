@@ -1,5 +1,5 @@
 ## Hello, my name is Robin Dimasin 👋
-I am a **Python & Web Developer Freelancer**, and an aspiring **Software Engineer**. I provide different services such as Web Scraping, Fullstack Development, Browser Automation using Selenium/Puppeteer, Python Scripting, Task Automation, and Chrome Extension Development.
+I am a **Freelance Python & Web Developer**, and an aspiring **Software Engineer**. I provide different services such as Web Scraping, Fullstack Development, Browser Automation using Selenium/Puppeteer, Python Scripting, Task Automation, and Chrome Extension Development.
 
 [![Robin Dimasin](https://img.shields.io/badge/robindimasin.com-202020?style=for-the-badge&logo=About.me&logoColor=white)](https://robindimasin.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-dimasin/)
